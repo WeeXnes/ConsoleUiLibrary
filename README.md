@@ -5,7 +5,8 @@
 <h1 align="center">ConsoleUiLibrary</h1>
 
 
-Install via nuget: 
+Install via <a href="https://www.nuget.org/packages/ConsoleUiLibrary">nuget</a>: 
+
 ```cmd
 PM> Install-Package ConsoleUiLibrary
 ```
